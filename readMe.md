@@ -13,3 +13,4 @@ INDEX
 9.  Merge Two arrays.
 10. Find Odd & Even numbers.
 11. Sum of all elements an array
+12. Largest and smallest elements in an array.
