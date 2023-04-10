@@ -9,4 +9,5 @@ INDEX
 5. Find Duplicate numbers from an array.
 6. Find Unique numbers from an array.
 7. Sort array in ascending order.
-8. Sort array in descending order
+8. Sort array in descending order.
+9. Merge Two arrays.
