@@ -12,3 +12,4 @@ INDEX
 8.  Sort array in descending order.
 9.  Merge Two arrays.
 10. Find Odd & Even numbers.
+11. Sum of all elements an array
