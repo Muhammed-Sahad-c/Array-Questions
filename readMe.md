@@ -20,3 +20,4 @@
 18. Copy the elements of one array into another array
 19. Count the duplicate elements in the array.
 20. Insert values in the N'th position.
+21. Largest Repeating element and its count.
