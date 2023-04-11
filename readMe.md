@@ -21,3 +21,4 @@
 19. Count the duplicate elements in the array.
 20. Insert values in the N'th position.
 21. Largest Repeating element and its count.
+22. Sum of the elements should be 50 and contain maximum elements.
