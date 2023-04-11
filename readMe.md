@@ -18,3 +18,4 @@
 16. Find the count of the negative numbers and sum of the positive numbers
 17. Find the frequancy of the array elements.
 18. Copy the elements of one array into another array
+19. Count the duplicate elements in the array.
