@@ -7,6 +7,7 @@ INDEX
 3.  Reverse an array without external variable.
 4.  Remove n'th element from an array.  
 5.  Find Duplicate numbers from an array.
+5.1 Print numbers and  if it duplicate print once.
 6.  Find Unique numbers from an array.
 7.  Sort array in ascending order.
 8.  Sort array in descending order.
