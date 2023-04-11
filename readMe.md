@@ -7,6 +7,7 @@ INDEX
 3.  Reverse an array without external variable.
 4.  Remove n'th element from an array.  
 5.  Find Duplicate numbers from an array.
+
 5.1 Print numbers and  if it duplicate print once.
 6.  Find Unique numbers from an array.
 7.  Sort array in ascending order.
@@ -19,3 +20,4 @@ INDEX
 14. Smallest and Second Smallest.
 15. Find the Nth largest number.
 16. Find the count of the negative numbers and sum of the positive numbers
+17. Find the frequancy of the array elements.
