@@ -1,11 +1,9 @@
-
-INDEX
-======================================================
+# INDEX
 
 1.  Reverse an array with new array.
 2.  Reverse an array with external variable.
 3.  Reverse an array without external variable.
-4.  Remove n'th element from an array.  
+4.  Remove n'th element from an array.
 5.  Find Duplicate numbers from an array.
 6.  Find Unique numbers from an array.
 7.  Sort array in ascending order.
@@ -19,3 +17,4 @@ INDEX
 15. Find the Nth largest number.
 16. Find the count of the negative numbers and sum of the positive numbers
 17. Find the frequancy of the array elements.
+18. Copy the elements of one array into another array
