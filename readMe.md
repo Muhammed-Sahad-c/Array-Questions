@@ -23,4 +23,5 @@
 21. Largest Repeating element and its count.
 22. Sum of the elements should be 50 and contain maximum elements.
 23. Move all zero to first of the array.
-24. MOve all zerot to end of the array.
+24. Move all zero to end of the array.
+25. Find the two numbers which has 10 as sum
