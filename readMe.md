@@ -25,3 +25,4 @@
 23. Move all zero to first of the array.
 24. Move all zero to end of the array.
 25. Find the two numbers which has 10 as sum
+26. Find the two numbers which has 10 as sum (way 2)
