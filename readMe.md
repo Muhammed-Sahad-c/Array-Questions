@@ -24,5 +24,6 @@
 22. Sum of the elements should be 50 and contain maximum elements.
 23. Move all zero to first of the array.
 24. Move all zero to end of the array.
-25. Find the two numbers which has 10 as sum
-26. Find the two numbers which has 10 as sum (way 2)
+25. Find the two numbers which has 10 as sum.
+26. Find the two numbers which has 10 as sum (way 2 method 2).
+27. Move all zero to end of the array ( method 2 and not using second array).
