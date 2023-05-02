@@ -27,3 +27,4 @@
 25. Find the two numbers which has 10 as sum.
 26. Find the two numbers which has 10 as sum (way 2 method 2).
 27. Move all zero to end of the array ( method 2 and not using second array).
+28. Sort an array in Alphabetical order (SELECTION SORT);
