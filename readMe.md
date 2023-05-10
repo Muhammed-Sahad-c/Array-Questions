@@ -29,3 +29,4 @@
 27. Move all zero to end of the array ( method 2 and not using second array).
 28. Sort an array in Alphabetical order (SELECTION SORT)
 29. Move All Zeros to End of the array method -- 2 (simplified)
+30. Move All Zeros to First of the array method -- 2 (simplified)
