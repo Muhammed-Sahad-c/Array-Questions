@@ -6,18 +6,28 @@ var resultArray = [];
 
 var length = array.length;
 
-// inserting all zeros
-for(i=0;i<length;i++){
-    if(array[i] === 0){
-        resultArray[resultArray.length] = array[i];
-    }
-}
+// method 1
 
-/// inserting other numbers
-for(i=0;i<length;i++){
-    if(array[i] !== 0){
-        resultArray[resultArray.length] = array[i]
-    }
+// // inserting all zeros
+// for(i=0;i<length;i++){
+//     if(array[i] === 0){
+//         resultArray[resultArray.length] = array[i];
+//     }
+// }
+
+// /// inserting other numbers
+// for(i=0;i<length;i++){
+//     if(array[i] !== 0){
+//         resultArray[resultArray.length] = array[i]
+//     }
+// }
+
+
+
+// method 2
+for (let i of array){
+    if(i ===0) resultArray.unshift(i);
+    else resultArray.push(i)
 }
 
 console.log(resultArray)
