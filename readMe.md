@@ -33,3 +33,5 @@
 29. Move All Zeros to End of the array method -- 2 (simplified)
 30. Move All Zeros to First of the array method -- 2 (simplified)
 31. Product of The array.
+32. Find the Square root of values
+
