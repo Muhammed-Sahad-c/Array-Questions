@@ -2,10 +2,10 @@
 
 var array = [1,2,3,4,0,0,2,0];
 
+// -------------------------------------------------------------------
+
 var resultArray = [];
-
 var length = array.length;
-
 
 // inserting all zeros
 for(i=0;i<length;i++){
@@ -25,9 +25,9 @@ for(i=0;i<length;i++){
 console.log(resultArray)
 
 
-// method 2 using inbuilt methods
+// -------------------------------------------------------------------
 
-var array = [1,2,3,4,0,0,2,0];
+// method 2 using in-built methods
 
 for(let i=0;i<array.length;i++){
     if(array[i]==0){
@@ -35,4 +35,19 @@ for(let i=0;i<array.length;i++){
     }
 }
 
-console.log(array)
+
+// -------------------------------------------------------------------
+
+
+// method 3 O(N)T   O(1)S
+const output = [];
+
+for(let i=0;i<array.length;i++){
+    if(array[i] !== 0) {
+        output.push(array[i])
+    }else{
+         output.unshift(0)
+    }
+}
+
+ // -------------------------------------------------------------------
